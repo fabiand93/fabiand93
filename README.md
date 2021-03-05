@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Directing Cybersecurity at Banco de Bogota ![bdb](https://www.bancodebogota.com/favicon.ico)
+- 👯 I’m looking to collaborate on Making Cybersecurity for everyone 🌎
+- 💬 Ask me about Cybersecurity, Python, AI/ML
+- ⚡ Fun fact: ...
+
+
+
 <!--
 **fabiand93/fabiand93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
