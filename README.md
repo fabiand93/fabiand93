@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Directing Cybersecurity at Banco de Bogota ![bdb](https://www.bancodebogota.com/favicon.ico)
+- 🔭 I’m currently working as CISO
 - 👯 I’m looking to collaborate on Making Cybersecurity for everyone 🌎
 - 💬 Ask me about Cybersecurity, Python, AI/ML
 
