@@ -11,7 +11,7 @@ Cybersecurity Director
 Dedicated and result-driven CISO with a proven track record in the banking sector (13 years), renowned for driving secure business growth. Leveraging extensive expertise in international regulations including NIST, PCI, ISO 27001, and other industry standards, I consistently ensure robust and compliant information security strategies that empower organizations to thrive in a dynamic and risk-conscious landscape.
 
 ## Experience
-### Chief Information Security Officer, Scotiabank Colpatria | 2023 - Present
+### Chief Information Security Officer, Scotiabank Colpatria | - 2023
 Orchestrate comprehensive cybersecurity strategies, oversee their execution, and safeguard critical financial data and customer assets. Led the Department of Cybersecurity, developing and implementing policies aligned with international regulatory frameworks, conducting regular risk assessments to identify and mitigate threats, and ensuring the protection of critical assets. Maintain compliance with PCI, GDPR, NIST, and ISO 27001 standards.
 
 ### Director of Security, Banco de Bogota | 2020 - 2023
