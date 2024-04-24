@@ -11,7 +11,11 @@ Cybersecurity Director
 Dedicated and result-driven CISO with a proven track record in the banking sector (13 years), renowned for driving secure business growth. Leveraging extensive expertise in international regulations including NIST, PCI, ISO 27001, and other industry standards, I consistently ensure robust and compliant information security strategies that empower organizations to thrive in a dynamic and risk-conscious landscape.
 
 ## Experience
-### Chief Information Security Officer, Scotiabank Colpatria | - 2023
+
+### Chief Information Security Officer (CISO) Consultant | 2023 - 2024
+Provided expert guidance to diverse clients spanning various sectors. Responsibilities encompassed risk assessment, formulation, and implementation of security protocols, as well as supervision and resolution of security incidents. Advised prominent clients such as Banco Azteca, MercadoLibre, and assorted startups, delivering bespoke solutions to safeguard their digital assets and sensitive information. Collaborated closely with Banco de la República in the deployment of state-of-the-art security measures, ensuring the protection of critical infrastructure and financial data, particularly in the context of open-banking and open-finance initiatives. Spearheaded the development and execution of cybersecurity awareness initiatives aimed at fortifying the security posture of client organizations and mitigating risks associated with contemporary threats.
+
+### Chief Information Security Officer, Scotiabank Colpatria | 2023 - 2023
 Orchestrate comprehensive cybersecurity strategies, oversee their execution, and safeguard critical financial data and customer assets. Led the Department of Cybersecurity, developing and implementing policies aligned with international regulatory frameworks, conducting regular risk assessments to identify and mitigate threats, and ensuring the protection of critical assets. Maintain compliance with PCI, GDPR, NIST, and ISO 27001 standards.
 
 ### Director of Security, Banco de Bogota | 2020 - 2023
